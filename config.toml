@@ -1,3 +1,36 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseurl                  = "https://jliu.ca"                # Your domain name
+languageCode             = "en-ca"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "JS Liu"
+theme                    = "sam"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[params]
+    dateform             = "Mon 2 Jan 2006"
+    dateformfull         = "Mon 2 Jan 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = ""                               # JS (Jason) Liu 2020.
+
+# Metadata for Open Graph and Twitter
+    description          = "JS (Jason) Liu."                # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "JS (Jason) Liu"
+
+[[params.mainMenu]]
+    link = ""
+    text = "Hello."
+
+[[params.mainMenu]]
+    link = "about"
+    text = "I'm Jason."
+
+[[params.mainMenu]]
+    link = "posts"
+    text = "I write."
+
+[imaging]
+    quality = 75
