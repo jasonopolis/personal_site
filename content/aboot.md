@@ -15,8 +15,13 @@ Computer Science at Williams College, MA.
 
 I go by they/them pronouns (he/him are okay too)!
 
-<i class="fas fa-paper-plane"></i> <jsliu@uchicago.edu>  
-<i class="fab fa-twitter"></i> [@jasonopoleis](//twitter.com/jasonopoleis)
-<i class="fab fa-github"></i> [@jason-liu-cs](//github.com/jason-liu-cs) 
-<i class="fas fa-globe-asia"></i> [jsliu.org](https://jsliu.org)
-<i class="fas fa-university"></i> [UL Bio](https://urbanlabs.uchicago.edu/people/jason-liu)
+<i class="fas fa-paper-plane"></i>email: <jsliu@uchicago.edu>
+
+<i class="fab fa-twitter"></i>twitter: [@jasonopoleis](//twitter.com/jasonopoleis)
+
+<i class="fab fa-github"></i>github: [@jason-liu-cs](//github.com/jason-liu-cs) 
+
+<i class="fas fa-globe-asia"></i>web: [jsliu.org](https://jsliu.org)
+
+<i class="fas fa-university"></i>work: [urbanlabs.uchicago.edu/people/jason-liu](https://urbanlabs.uchicago.edu/people/jason-liu)
+
