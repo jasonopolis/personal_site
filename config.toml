@@ -21,11 +21,11 @@ googleAnalytics          = "UA-50133489-2"                  # Tracking code, eg.
     title                = "J.S. (Jason) Liu"
 
 [[params.mainMenu]]
-    link = ""
+    link = "aboot"
     text = "Hello."
 
 [[params.mainMenu]]
-    link = "about"
+    link = "aboot"
     text = "I'm Jason."
 
 [imaging]
