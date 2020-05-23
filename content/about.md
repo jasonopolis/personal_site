@@ -1,10 +1,10 @@
 ---
-title: "JS (Jason) Liu"
+title: "J.S. (Jason) Liu"
 date: 2020-04-24T11:42:29-05:00
 draft: false
 ---
 
-Hey! My name is JS (Jason) Liu, and I'm an environmental and development 
+Hey! My name is J.S. (Jason) Liu, and I'm an environmental and development 
 economics student and researcher. 
 
 Currently, I work as a Junior Project Associate at the 

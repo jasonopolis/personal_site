@@ -2,7 +2,7 @@ baseurl                  = "https://jliu.ca"                # Your domain name
 languageCode             = "en-ca"
 defaultContentLanguage   = "en"
 isMultilingual           = false
-title                    = "JS Liu"
+title                    = "J.S. Liu"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
@@ -16,9 +16,9 @@ googleAnalytics          = "UA-50133489-2"                  # Tracking code, eg.
     footerText           = ""                               # JS (Jason) Liu 2020.
 
 # Metadata for Open Graph and Twitter
-    description          = "JS (Jason) Liu."                # Max 160 characters show in search results
+    description          = "J.S. (Jason) Liu."              # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "JS (Jason) Liu"
+    title                = "J.S. (Jason) Liu"
 
 [[params.mainMenu]]
     link = ""
