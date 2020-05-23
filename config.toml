@@ -4,6 +4,7 @@ defaultContentLanguage   = "en"
 isMultilingual           = false
 title                    = "J.S. Liu"
 theme                    = "sam"
+enableEmoji              = true
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 googleAnalytics          = "UA-50133489-2"                  # Tracking code, eg. "UA-111111111-1"
