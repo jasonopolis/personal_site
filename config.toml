@@ -6,7 +6,7 @@ title                    = "JS Liu"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+googleAnalytics          = "UA-50133489-2"                  # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform             = "Mon 2 Jan 2006"
@@ -27,10 +27,6 @@ pygmentsCodefences       = true
 [[params.mainMenu]]
     link = "about"
     text = "I'm Jason."
-
-[[params.mainMenu]]
-    link = "posts"
-    text = "I write."
 
 [imaging]
     quality = 75
