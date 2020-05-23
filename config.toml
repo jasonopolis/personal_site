@@ -12,7 +12,7 @@ googleAnalytics          = "UA-50133489-2"                  # Tracking code, eg.
 [params]
     dateform             = "Mon 2 Jan 2006"
     dateformfull         = "Mon 2 Jan 2006 15:04:05 EST"
-    favicon              = "sam.ico"
+    favicon              = "leaf.ico"
     homepage             = "main"                           # What to call the home page link
     footerText           = ""                               # JS (Jason) Liu 2020.
 
