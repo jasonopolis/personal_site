@@ -21,4 +21,4 @@ Cape Town, South Africa.
 
 I'm currently studying Economics and Computer Science at Williams College. 
 
-I go by they/them pronouns (he/him are okay too!).
+I go by they/them pronouns (he/him are okay too)!
