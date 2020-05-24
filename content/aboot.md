@@ -17,6 +17,7 @@ I go by they/them pronouns (he/him are okay too)!
 
 Find me on...
 * twitter: [@jasonopoleis](//twitter.com/jasonopoleis)
-* github: [@jasonopolis](//github.com/jasonopolis) 
+* github: [@jasonopolis](//github.com/jasonopolis)
+* linkedin: [liu-js](//linkedin.com/in/liu-js)
 * web: [jsliu.org](https://jsliu.org)
-* work: [urbanlabs.uchicago.edu/people/jason-liu](https://urbanlabs.uchicago.edu/people/jason-liu)
+* work: [uchicago.edu](https://urbanlabs.uchicago.edu/people/jason-liu)
