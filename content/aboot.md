@@ -16,6 +16,7 @@ Computer Science at Williams College, MA.
 I go by they/them pronouns (he/him are okay too)!
 
 Find me on...
+* email: <jsliu@uchicago.edu>
 * twitter: [@jasonopoleis](//twitter.com/jasonopoleis)
 * github: [@jasonopolis](//github.com/jasonopolis)
 * linkedin: [liu-js](//linkedin.com/in/liu-js)
