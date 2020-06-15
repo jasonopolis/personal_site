@@ -28,6 +28,10 @@ googleAnalytics          = "UA-50133489-2"                  # Tracking code, eg.
 [[params.mainMenu]]
     link = "aboot"
     text = "I'm Jason."
+    
+[[params.mainMenu]]
+    link = "https://blacklivesmatter.carrd.co/#"
+    text = "Black Trans Lives Matter." 
 
 [imaging]
     quality = 75
