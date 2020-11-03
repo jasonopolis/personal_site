@@ -24,3 +24,7 @@ For a little bit more about my past experience, from 2018-2019, I was a Junior P
 In the summer of 2018, I was a Wilmers Research Fellow and research assistant for Professor Susan Godlonton in Cape Town, South Africa, conducting follow-up econometric analysis on agricultural and public health research projects in Malawi.
 
 I'm from Vancouver, Canada and Guangzhou, China -- talk to me in English, Cantonese, or Mandarin!
+
+---
+
+_This website is powered by [Hugo](gohugo.io) and built on the fantastic [Sam theme](https://github.com/victoriadrake/hugo-theme-sam) by Victoria Drake. Yay for open source!_
