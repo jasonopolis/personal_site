@@ -27,4 +27,4 @@ I'm from Vancouver, Canada and Guangzhou, China -- talk to me in English, Canton
 
 ---
 
-_This website is powered by [Hugo](gohugo.io) and built on the fantastic [Sam theme](https://github.com/victoriadrake/hugo-theme-sam) by Victoria Drake. Yay for open source!_
+_This website is powered by [Hugo](https://gohugo.io) and built on the fantastic [Sam theme](https://github.com/victoriadrake/hugo-theme-sam) by Victoria Drake. Yay for open source!_
